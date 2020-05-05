@@ -1,0 +1,2 @@
+rootProject.name='ndk-screen_live'
+include ':app'
